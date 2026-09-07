@@ -1,4 +1,4 @@
-# 👋 Bonjour, moi c'est Tonga Rafa
+# 👋 Bonjour, moi c'est Tong Rafa
 
 **Software Engineer** | **Salesforce** | **IA**
 
