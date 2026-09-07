@@ -1,57 +1,56 @@
-# 👋 Bonjour, moi c'est Tong Rafa
+# 👋 Hello, I'm Tong Rafa
 
-**Software Engineer** | **Salesforce** | **IA**
-
----
-
-## 👨🏽‍💻 À propos de moi
-
-Ingénieur logiciel passionné par l'intersection entre **Salesforce** et **l'Intelligence Artificielle**. 
-Je crois fermement qu'un code fonctionnel ne suffit pas : **l'expérience utilisateur doit donner envie d'utiliser le produit**. 
-C'est cette philosophie qui guide mes développements, du backend au frontend.
-
-🎯 **Mon objectif** : Collaborer sur des projets innovants mêlant Salesforce et IA, ou explorer de nouveaux territoires à la croisée de ces deux univers.
+**Software Engineer** | **Salesforce** | **AI**
 
 ---
 
-## 🛠️ Mon arsenal technique
+## 👨🏽‍💻 About Me
 
-| Catégorie | Technologies |
+Software engineer passionate about the intersection of **Salesforce** and **Artificial Intelligence**. 
+I firmly believe that functional code isn't enough: **the user experience must make people want to use the product**. 
+This philosophy guides my developments, from backend to frontend.
+
+🎯 **My goal**: To collaborate on innovative projects combining Salesforce and AI, or to explore new territories at the crossroads of these two worlds.
+
+---
+
+## 🛠️  Tech Stack
+
+| Category | Technologies |
 |-----------|--------------|
-| **Langages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Apex](https://img.shields.io/badge/Apex-00A1E0?style=flat&logo=salesforce&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat&logo=html5&logoColor=white) |
-| **Frameworks & Librairies** | ![LWC](https://img.shields.io/badge/LWC-00A1E0?style=flat&logo=salesforce&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) |
-| **Outils & Environnements** | ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Apex](https://img.shields.io/badge/Apex-00A1E0?style=flat&logo=salesforce&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat&logo=html5&logoColor=white) |
+| **Frameworks & Libraries** | ![LWC](https://img.shields.io/badge/LWC-00A1E0?style=flat&logo=salesforce&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) |
+| **Tools & Environments** | ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
 
 ---
 
-## 📂 Mes projets phares
+## 📂 Projects
 
 ### 🤖 **LutherIA** 
-> Application de **traduction et transcription en temps réel** du malgache vers le français, propulsée par l'IA.  
-> *Tech : Python, PyTorch, Hugging Face, API en temps réel.*
+> Real-time **translation and transcription** application from Malagasy to French, powered by AI.  
+> *Tech: Python, PyTorch, Hugging Face, real-time API.*
 
-### 📚 **Système de RAG pour la recherche scientifique**
-> Assistant de recherche intelligent qui **récupère automatiquement des articles scientifiques** et répond aux requêtes grâce à un système RAG (Retrieval-Augmented Generation).  
-> *Tech : Python, LlamaIndex / LangChain, base vectorielle, LLM.*
-
----
-
-## 🌐 Retrouvez-moi ailleurs
-
-- **Trailblazer Salesforce** : [trafa6](https://www.salesforce.com/trailblazer/trafa6)
-- **Hugging Face** : [Tongasoa](https://huggingface.co/Tongasoa)
-
+### 📚 **RAG System for Scientific Research**
+> Intelligent research assistant that **automatically retrieves scientific articles** and answers queries using a RAG (Retrieval-Augmented Generation) system.  
+> *Tech: Python, LlamaIndex / LangChain, vector database, LLM.*
 
 ---
 
-## 🏀 En dehors du code
+## 🌐 Find Me Elsewhere
 
-Quand je ne suis pas devant mon écran, vous me trouverez sur un terrain de basket ou en train de courir.  
-**N'hésitez pas à me contacter** pour parler de projets, d'IA, de Salesforce, ou pour organiser une petite session sportive ! 🏃‍♂️
+- **Salesforce Trailblazer**: [trafa6](https://www.salesforce.com/trailblazer/trafa6)
+- **Hugging Face**: [Tongasoa](https://huggingface.co/Tongasoa)
 
 ---
 
-## 🎵 Ce que j'écoute en ce moment
+## 🏀 Outside of Code
+
+When I'm not in front of my screen, you'll find me on a basketball court or out running.  
+**Feel free to reach out** to talk about projects, AI, Salesforce, or to organize a little sports session! 🏃‍♂️
+
+---
+
+## 🎵 What I'm Listening to Right Now
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
@@ -61,4 +60,4 @@ Quand je ne suis pas devant mon écran, vous me trouverez sur un terrain de bask
 
 ---
 
-*“Le code fonctionnel, c'est bien. L'expérience utilisateur qui donne envie, c'est mieux.”* — Tonga Rafa
+*"Functional code is good. User experience that makes you want to use it is better."* — Tong Rafa
