@@ -1,9 +1,64 @@
-<h1 align="center">Hi 👋, I'm Tongasoa</h1>
-<h3 align="center">A Software engineer from Paris</h3>
+# 👋 Bonjour, moi c'est Tonga Rafa
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+**Software Engineer** | **Salesforce** | **IA**
+
+---
+
+## 👨🏽‍💻 À propos de moi
+
+Ingénieur logiciel passionné par l'intersection entre **Salesforce** et **l'Intelligence Artificielle**. 
+Je crois fermement qu'un code fonctionnel ne suffit pas : **l'expérience utilisateur doit donner envie d'utiliser le produit**. 
+C'est cette philosophie qui guide mes développements, du backend au frontend.
+
+🎯 **Mon objectif** : Collaborer sur des projets innovants mêlant Salesforce et IA, ou explorer de nouveaux territoires à la croisée de ces deux univers.
+
+---
+
+## 🛠️ Mon arsenal technique
+
+| Catégorie | Technologies |
+|-----------|--------------|
+| **Langages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Apex](https://img.shields.io/badge/Apex-00A1E0?style=flat&logo=salesforce&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat&logo=html5&logoColor=white) |
+| **Frameworks & Librairies** | ![LWC](https://img.shields.io/badge/LWC-00A1E0?style=flat&logo=salesforce&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) |
+| **Outils & Environnements** | ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
+
+---
+
+## 📂 Mes projets phares
+
+### 🤖 **LutherIA** 
+> Application de **traduction et transcription en temps réel** du malgache vers le français, propulsée par l'IA.  
+> *Tech : Python, PyTorch, Hugging Face, API en temps réel.*
+
+### 📚 **Système de RAG pour la recherche scientifique**
+> Assistant de recherche intelligent qui **récupère automatiquement des articles scientifiques** et répond aux requêtes grâce à un système RAG (Retrieval-Augmented Generation).  
+> *Tech : Python, LlamaIndex / LangChain, base vectorielle, LLM.*
+
+---
+
+## 🌐 Retrouvez-moi ailleurs
+
+- **Trailblazer Salesforce** : [trafa6](https://www.salesforce.com/trailblazer/trafa6)
+- **Hugging Face** : [Tongasoa](https://huggingface.co/Tongasoa)
+
+
+---
+
+## 🏀 En dehors du code
+
+Quand je ne suis pas devant mon écran, vous me trouverez sur un terrain de basket ou en train de courir.  
+**N'hésitez pas à me contacter** pour parler de projets, d'IA, de Salesforce, ou pour organiser une petite session sportive ! 🏃‍♂️
+
+---
+
+## 🎵 Ce que j'écoute en ce moment
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=11124176486&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=light">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+*“Le code fonctionnel, c'est bien. L'expérience utilisateur qui donne envie, c'est mieux.”* — Tonga Rafa
